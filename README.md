@@ -1,2 +1,2 @@
-# PruebaGIt003
+# PruebaGit003
 Repositorio, ejemplos variados html, css y mas...
