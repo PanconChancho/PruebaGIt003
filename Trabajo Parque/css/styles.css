@@ -1,0 +1,36 @@
+div {   
+    width: 1000px;
+    padding: 0px;
+    margin: 0px; 
+    left: 200px;
+  }
+
+  body{
+    background-color: #0ee4f3;  
+}  
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  display: block;
+}
+
+.marco {
+  border: 5px solid #ee6205;
+}
+.contenedor {   
+  position: sticky;   /*position sticky hace funcionar la barra de desplazamiento*/ 
+  width: 1011px;
+}
+
+.footer {
+  background-color:#ffffff52 ;
+  text-align: center;
+  padding: 5px;
+  width: 1000px;
+  left: 200px;
+}
+
+
